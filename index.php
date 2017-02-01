@@ -22,6 +22,9 @@
         </nav>
     </header>    
 
+	<h1>This is a big header!</h1>
+	<p>Here is a paragraph with lots of information about this cool new PHp site!</p>
+	
     <article>
         <h3><?php pageTitle(); ?></h3>
         <?php pageContent(); ?>
